@@ -9,11 +9,11 @@ html.custom-theme {
     --browser-accent-color-dark: #1E1F22;
     --browser-accent-color: #2B2D31;
     --browser-tab-strip: var(--browser-accent-dark);
-    --browser-tab-divider-color: #101010;
-    --browser-tab-highlight-color: #101010;
+    --browser-tab-divider-color: #FF;
+    --browser-tab-highlight-color: #FF;
     --browser-search-highlight-color: rgb(145 145 145 / 10%);
-    --browser-text-primary-color: #ddd;
-    --browser-text-secondary-color: #fff;
-    --browser-active-icon-color: #333;
-    --browser-logo-filter: saturate(0) opacity(0.5) invert(1);
+    --browser-text-primary-color: #FF;
+    --browser-text-secondary-color: #FF;
+    --browser-active-icon-color: #FF;
+/*     --browser-logo-filter: saturate(0) opacity(0.5) invert(1); */
 }
